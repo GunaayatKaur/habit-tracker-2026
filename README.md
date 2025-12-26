@@ -1,4 +1,4 @@
-# \ud83c\udfaf Daily Habit Tracker 2026
+# 🎯 Daily Habit Tracker 2026
 
 A beautiful, interactive habit tracking application built with React.
 
@@ -46,4 +46,4 @@ npm start
 - Responsive design for all devices
 - Clean, modern UI inspired by top habit trackers
 
-Happy habit tracking! \ud83d\ude80
+Happy habit tracking! ⏰
